@@ -1,0 +1,6 @@
+@LicenseManagement.API_HostAddress = http://localhost:5058
+
+GET {{LicenseManagement.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
